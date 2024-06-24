@@ -6,7 +6,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: #000000;
     color: white;
     display: flex;
     align-items: center;
@@ -112,7 +112,7 @@ span{
     font-weight: 700;
 }
 .hero-section{
-    background-image: url("hero_image.jpg");
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/Baby/cnnjpp1/Baby/Homepage_DesktopHeroTemplate_3000x1200_1._CB580021402_.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -195,8 +195,10 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("lgo.jpeg");
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.jrf82BrfUlBS15n-X3tTLgHaE9&pid=Api&P=0&h=180");
     background-size: cover;
+    position: relative;
+    bottom: 5px;
     height: 50px;
     width: 100px;
 }
